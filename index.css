@@ -1,0 +1,24 @@
+
+.fa-brands{
+       font-size:60px;
+       text-align: center;
+       justify-content: center;
+
+}
+
+img{
+    height:118%;
+    width: 118%;
+}
+
+.services{
+        text-align: center;
+}
+
+.final{
+      display: flex;
+}
+.tn{
+    background-color: black;
+    color: white;
+}
